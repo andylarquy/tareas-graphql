@@ -1,2 +1,6 @@
+env:
+  - TARGET="back"
+  - TARGET="front"
 import:
   - back/.travis.yml
+  - front/.travis.yml

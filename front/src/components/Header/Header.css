@@ -1,0 +1,15 @@
+.Header-bar{
+  background-color: #596e79;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 1% 0
+}
+
+.Header-title{
+  color: white;
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
