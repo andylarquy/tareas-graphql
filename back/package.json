@@ -23,7 +23,7 @@
     "graphql-import": "^1.0.2",
     "graphql-tools": "^7.0.4",
     "http-errors-response-ts": "^1.0.0",
-    "mongodb": "^3.6.6"
+    "mongodb": "^3.7.3"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^1.21.3",
